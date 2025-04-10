@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ben MERT</h1>
+<h1 align="center">Merhaba 👋, ben MERT</h1>
 
 <h3 align="center">
 Yazılım geliştirme alanında becerilerini kanıtlamış, kendini sürekli geliştirmeye istekli ve zorluklar karşısında analitik düşünme becerisi yüksek biriyim. Teknolojik yenilikleri takip ederek, projelerde daha etkin ve verimli sonuçlar elde etmeye odaklanıyorum.
